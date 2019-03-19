@@ -11,7 +11,7 @@ class simpleLogin {
 			$this->loginError();
 		}
 	}
- 	
+
  	//do stuff to login the user
 	protected function loginUser() {
 		echo 'logged in';
