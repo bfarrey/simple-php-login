@@ -1,7 +1,7 @@
 <?php
 class simpleLogin {
 
-	protected $username = 'username'; 
+	protected $username = 'username';
 	protected $password = 'password';
 
 	public function loginAttempt($username, $password) {
@@ -23,5 +23,4 @@ class simpleLogin {
 	}
 
 }
-
 ?>
